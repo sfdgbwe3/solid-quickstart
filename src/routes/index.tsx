@@ -7,11 +7,11 @@ export default function Home() {
       <div style="width:100vh;height:100vh">
       <div class="parent">
 <div class="div1"> <img src="Screenshot_20221126_185238_Dropbox_optimized.jpg" alt="101"></img> </div>
-<div class="div2"> <img src="Screenshot_20221126_185238_Dropbox_optimized.jpg" alt="101"></img> </div>
-<div class="div3"> <img src="Screenshot_20221126_185238_Dropbox_optimized.jpg" alt="101"></img> </div>
-<div class="div4"> <img src="Screenshot_20221126_185238_Dropbox_optimized.jpg" alt="101"></img> </div>
-<div class="div5"> <img src="Screenshot_20221126_185238_Dropbox_optimized.jpg" alt="101"></img> </div>
-<div class="div6">  <img src="Screenshot_20221126_185238_Dropbox_optimized.jpg" alt="101"></img> </div>
+<div class="div2"> <img src="8yJRVTqi.jpeg" alt="101"></img> </div>
+<div class="div3"> <img src="Screenshot_20221126_185958_Dropbox_optimized.jpg" alt="101"></img> </div>
+<div class="div4"> <img src="8yJRVTqi.jpeg" alt="101"></img> </div>
+<div class="div5"> <img src="Screenshot_20221128_085250_Dropbox_optimized.jpg" alt="101"></img> </div>
+<div class="div6">  <img src="8yJRVTqi.jpeg" alt="101"></img> </div>
 </div>
       </div>
     </main>
